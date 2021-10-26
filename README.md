@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sama-Loghmani
+- 👋 Hi, I’m Sama Loghmani
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
